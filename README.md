@@ -1,4 +1,4 @@
-# Hi, I'm S-Rayyan 👋
+# Hi, I'm Rayyan👋
 
 ## 👨‍💻 Area of Expertise
 Full Stack Development, with a strong focus on backend development using the .NET Framework.
