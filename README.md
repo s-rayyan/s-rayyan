@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm S-Rayyan 👋
 
-<!--
-**s-rayyan/s-rayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Area of Expertise
+Full Stack Development, with a strong focus on backend development using the .NET Framework.
 
-Here are some ideas to get you started:
+## 🛠 Top Skills
+- Backend Development with .NET Framework
+- Frontend Development with React
+- Python, Typescript, Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Project
+- [@s-rayyan/appt-scheduler](https://github.com/s-rayyan/appt-scheduler): Appointment scheduling platform
+
+## 💼 Technologies & Tools
+- .NET, C#, ASP.NET
+- React, Typescript, Javascript
+- HTML, CSS, BS5
+- Python
+
+## 📫 Let's connect
+Feel free to reach out via GitHub issues or discussions!
+
+---
