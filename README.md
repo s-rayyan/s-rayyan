@@ -19,8 +19,3 @@ Appointment booking platform with forms, birthday party planning (in a private r
 
 ## 🧾 Notes
 I code a lot more in my private projects, and those don't show up.
-
-## 📫 Let's connect
-Feel free to reach out via GitHub issues or discussions!
-
----
