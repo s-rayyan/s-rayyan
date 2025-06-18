@@ -9,7 +9,7 @@ Full Stack Development, with a strong focus on backend development using the .NE
 - Python, Typescript, Javascript
 
 ## 🚀 Notable Project
-- [@s-rayyan/appt-scheduler](https://github.com/s-rayyan/appt-scheduler): Appointment scheduling platform
+Appointment booking platform with forms, birthday party planning (in a private repo)
 
 ## 💼 Technologies & Tools
 - .NET, C#, ASP.NET
