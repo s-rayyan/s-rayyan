@@ -1,7 +1,7 @@
 # Hi, I'm Rayyan👋
 
 ## 👨‍💻 Area of Expertise
-Full Stack Development, with a strong focus on backend development using the .NET Framework.
+Full Stack Development, currently 
 
 ## 🛠 Top Skills
 - Backend Development with .NET Framework
@@ -10,11 +10,13 @@ Full Stack Development, with a strong focus on backend development using the .NE
 
 ## 🚀 Notable Project
 Appointment booking platform with forms, birthday party planning (in a private repo) [Appointmenteer](https://appointmenteer.azurewebsites.net)
+AI empowered flashcard app with quizzes, AI features and more (also in a private repo) [Mentor](https://mentor-app.web.app)
 
-## 💼 Technologies & Tools
+## 💼 Skills
 - .NET, C#, ASP.NET
 - React, Typescript, Javascript
-- HTML, CSS, BS5
+- HTML, CSS
+- Bootstrap 5, Tailwind 4
 - Python
 
 ## 🧾 Notes
