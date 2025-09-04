@@ -4,15 +4,16 @@
 Full Stack Development, currently 
 
 ## 🛠 Top Skills
-- Backend Development with .NET Framework
-- Frontend Development with React
+- Backend Development with the .NET Framework, Azure Functions and Firebase
+- Frontend Development with React and Next .JS
 - Python, Typescript, Javascript
 
-## 🚀 Notable Project
+## 🚀 Notable Projects
 Appointment booking platform with forms, birthday party planning (in a private repo) [Appointmenteer](https://appointmenteer.azurewebsites.net)
 AI empowered flashcard app with quizzes, AI features and more (also in a private repo) [Mentor](https://mentor-app.web.app)
 
 ## 💼 Skills
+- Firebase, Azure
 - .NET, C#, ASP.NET
 - React, Typescript, Javascript
 - HTML, CSS
