@@ -10,6 +10,7 @@ Full Stack Development, currently
 
 ## 🚀 Notable Projects
 Appointment booking platform with forms, birthday party planning (in a private repo) [Appointmenteer](https://appointmenteer.azurewebsites.net)
+
 AI empowered flashcard app with quizzes, AI features and more (also in a private repo) [Mentor](https://mentor-app.web.app)
 
 ## 💼 Skills
